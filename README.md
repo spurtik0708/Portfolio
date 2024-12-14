@@ -37,4 +37,6 @@ I appreciate any suggestions, feedback, or contributions to enhance this persona
 If you have any questions or inquiries, please feel free to reach out to me through the contact information provided in the website or by using the contact form.
 
 Thank you for visiting my personal portfolio repository! I hope you find it informative and visually appealing.
-![Portfolio](https://github.com/Venkateeshh/Portfolio-Website/assets/117290841/d05942e3-6970-47eb-9757-482f11bb6044)
+
+![Screenshot 2024-12-14 143106](https://github.com/user-attachments/assets/4f5f5ddf-f754-4e73-b300-c3ef87991f4a)
+
