@@ -8,7 +8,6 @@ Welcome to my personal portfolio repository! This project showcases my skills, e
 
 Check out the live version of the portfolio: https://spurthik.onrender.com
 
-*(Replace `#` with the actual link if hosted.)*
 
 ---
 
